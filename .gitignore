@@ -57,3 +57,5 @@ node_modules/@esbuild/win32-x64/esbuild.exe
 node_modules/lightningcss-win32-x64-msvc/lightningcss.win32-x64-msvc.node
 node_modules/typescript/lib/typescript.js
 node_modules/typescript/lib/_tsc.js
+
+# AUTO-IGNORE-LARGE-FILES (>5MB) â€” managed by github-commit-push-all
