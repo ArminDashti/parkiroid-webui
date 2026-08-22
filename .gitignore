@@ -59,3 +59,5 @@ node_modules/typescript/lib/typescript.js
 node_modules/typescript/lib/_tsc.js
 
 # AUTO-IGNORE-LARGE-FILES (>5MB) â€” managed by github-commit-push-all
+# github-commit-push-all: large files (>5MB) — auto-managed
+
